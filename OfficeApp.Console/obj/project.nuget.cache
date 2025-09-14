@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEm2s8UsB42fIepkI5hCOmalmkyHky5r68pdMt84OqUDmzpFGw+FHsg9hJSGLS0haOWiQgqDdw3rcxFT3UvuSA==",
+  "success": true,
+  "projectFilePath": "/home/runner/workspace/OfficeApp.Console/OfficeApp.Console.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/runner/.nuget/packages/mysqlconnector/2.4.0/mysqlconnector.2.4.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

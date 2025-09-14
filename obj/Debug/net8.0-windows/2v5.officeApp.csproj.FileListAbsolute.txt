@@ -1,0 +1,71 @@
+/home/runner/workspace/bin/Debug/net8.0-windows/OfficeApp
+/home/runner/workspace/bin/Debug/net8.0-windows/OfficeApp.dll.config
+/home/runner/workspace/bin/Debug/net8.0-windows/OfficeApp.deps.json
+/home/runner/workspace/bin/Debug/net8.0-windows/OfficeApp.runtimeconfig.json
+/home/runner/workspace/bin/Debug/net8.0-windows/OfficeApp.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/OfficeApp.pdb
+/home/runner/workspace/bin/Debug/net8.0-windows/BouncyCastle.Cryptography.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/Google.Protobuf.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/K4os.Compression.LZ4.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/K4os.Compression.LZ4.Streams.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/K4os.Hash.xxHash.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/MySql.Data.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/System.Configuration.ConfigurationManager.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/System.Diagnostics.EventLog.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/System.IO.Pipelines.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/ZstdSharp.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/runtimes/win-x64/native/comerr64.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/runtimes/win-x64/native/gssapi64.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/runtimes/win-x64/native/k5sprt64.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/runtimes/win-x64/native/krb5_64.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/runtimes/win-x64/native/krbcc64.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/home/runner/workspace/bin/Debug/net8.0-windows/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+/home/runner/workspace/obj/Debug/net8.0-windows/2v5.officeApp.csproj.AssemblyReference.cache
+/home/runner/workspace/obj/Debug/net8.0-windows/officeApp.Forms.LoginForm.resources
+/home/runner/workspace/obj/Debug/net8.0-windows/officeApp.Properties.Resources.resources
+/home/runner/workspace/obj/Debug/net8.0-windows/2v5.officeApp.csproj.GenerateResource.cache
+/home/runner/workspace/obj/Debug/net8.0-windows/2v5.officeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/obj/Debug/net8.0-windows/2v5.officeApp.csproj.CoreCompileInputs.cache
+/home/runner/workspace/obj/Debug/net8.0-windows/2v5.officeApp.sourcelink.json
+/home/runner/workspace/obj/Debug/net8.0-windows/2v5.offi.DD4E1581.Up2Date
+/home/runner/workspace/obj/Debug/net8.0-windows/OfficeApp.dll
+/home/runner/workspace/obj/Debug/net8.0-windows/refint/OfficeApp.dll
+/home/runner/workspace/obj/Debug/net8.0-windows/OfficeApp.pdb
+/home/runner/workspace/obj/Debug/net8.0-windows/2v5.officeApp.genruntimeconfig.cache
+/home/runner/workspace/obj/Debug/net8.0-windows/ref/OfficeApp.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\OfficeApp.exe
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\OfficeApp.dll.config
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\OfficeApp.deps.json
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\OfficeApp.runtimeconfig.json
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\OfficeApp.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\OfficeApp.pdb
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\2v5.officeApp.csproj.AssemblyReference.cache
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\officeApp.Forms.LoginForm.resources
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\officeApp.Properties.Resources.resources
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\2v5.officeApp.csproj.GenerateResource.cache
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\2v5.officeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\2v5.officeApp.csproj.CoreCompileInputs.cache
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\2v5.officeApp.sourcelink.json
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\2v5.offi.DD4E1581.Up2Date
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\OfficeApp.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\refint\OfficeApp.dll
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\OfficeApp.pdb
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\2v5.officeApp.genruntimeconfig.cache
+C:\Users\2vlad5\Desktop\Office delete\Office-3.1\obj\Debug\net8.0-windows\ref\OfficeApp.dll

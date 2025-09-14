@@ -1,0 +1,30 @@
+modules = ["dotnet-7.0", "dotnet-8.0"]
+[agent]
+expertMode = true
+integrations = ["replitmail:1.0.0"]
+
+[nix]
+channel = "stable-25_05"
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Office WinForms App"
+
+[[workflows.workflow]]
+name = "Office WinForms App"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "dotnet run"
+
+[workflows.workflow.metadata]
+outputType = "vnc"
